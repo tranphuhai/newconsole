@@ -11,6 +11,8 @@ namespace newconsole
         static void Main(string[] args)
         {
             Console.WriteLine("ok");
+
+
            
         }
     }
