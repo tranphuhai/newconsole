@@ -8,5 +8,6 @@ namespace newconsole.model
 {
     class Class1
     {
+        Console.Writeline("123");
     }
 }
