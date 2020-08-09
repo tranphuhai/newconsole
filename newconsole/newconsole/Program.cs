@@ -10,7 +10,9 @@ namespace newconsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ok");        
+            Console.WriteLine("ok");
+            Console.WriteLine("ok");
+
         }
     }
 }
